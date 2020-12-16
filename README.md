@@ -1,5 +1,5 @@
-# Java-verktyg-gruppprojekt
-Grupp 4
+# Java - Kontaktbok
+Projekt i grupp
 
 -Manual-
 1. Right click on Terminal class
